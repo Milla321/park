@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 proba
 sziasztok skacok !!!! gábor
+=======
+proba Én meg belekontárkodom :-)
+>>>>>>> 84ba622febf4115c81358c65a1d2556d1b1a87b0
+-------------
+Újra beleírtam Gábor
